@@ -7,7 +7,7 @@ This is a simple Java Swing-based animation that moves an image around a panel w
 
 ## 📸 Preview
 
-🎬 [Click here to watch the animation demo](https://user-images.githubusercontent.com/.mp4)
+🎬 [ Watch the o]
 
 
 
