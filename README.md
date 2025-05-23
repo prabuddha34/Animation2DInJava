@@ -7,8 +7,12 @@ This is a simple Java Swing-based animation that moves an image around a panel w
 
 ## 📸 Preview
 
-An image (e.g., your enemy sprite) bounces within a 500x500 panel!  
-Make sure to replace `"Screenshot 2025-05-23 113934.png"` with your own image asset.
+🎬 [Click here to watch the animation demo](https://user-images.githubusercontent.com/.mp4)
+
+
+
+https://github.com/user-attachments/assets/2d5ab2cf-0030-4b3d-9ec3-9bf999c47653
+
 
 ---
 
@@ -21,8 +25,4 @@ Make sure to replace `"Screenshot 2025-05-23 113934.png"` with your own image as
 
 ---
 
-## 🚀 Getting Started
 
-1. **Clone this repository**
-   ```bash
-   git clone https://github.com/yourusername/animationpanel.git
